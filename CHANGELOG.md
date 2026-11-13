@@ -1,6 +1,8 @@
 # Changelog
 
-## [1.0.0] - 2023-09-15
+## [Unreleased]
+
+## [0.0.1] - 2026-11-14
 
 ### Added
-- This is a default template changelog that follows the [KeepAChangelog Convention](https://keepachangelog.com/en/1.1.0/)
+- Copper Item
