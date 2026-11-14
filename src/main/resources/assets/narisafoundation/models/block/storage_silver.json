@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "narisafoundation:blocks/metal/block_silver"
+    }
+}

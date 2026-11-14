@@ -1,5 +1,13 @@
 {
     "variants": {
-        "normal": { "model": "narisafoundation:storage_metal" }
+        "variant=copper": { "model": "narisafoundation:storage_copper" },
+        "variant=tin": { "model": "narisafoundation:storage_tin" },
+        "variant=aluminum": { "model": "narisafoundation:storage_aluminum" },
+        "variant=silver": { "model": "narisafoundation:storage_silver" },
+        "variant=lead": { "model": "narisafoundation:storage_lead" },
+        "variant=steel": { "model": "narisafoundation:storage_steel" },
+        "variant=alubrass": { "model": "narisafoundation:storage_alubrass" },
+        "variant=electrum": { "model": "narisafoundation:storage_electrum" },
+        "variant=bronze": { "model": "narisafoundation:storage_bronze" }
     }
 }

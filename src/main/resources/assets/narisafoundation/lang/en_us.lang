@@ -2,8 +2,32 @@
 itemGroup.narisaFoundation=NarisaFoundation
 
 # Items
-item.ingot.name=Copper Ingot
-item.nugget.name=Copper Nugget
+item.ingotCopper.name=Copper Ingot
+item.ingotTin.name=Tin Ingot
+item.ingotAluminum.name=Aluminum Ingot
+item.ingotSilver.name=Silver Ingot
+item.ingotLead.name=Lead Ingot
+item.ingotSteel.name=Steel Ingot
+item.ingotAluBrass.name=Aluminum Brass Ingot
+item.ingotElectrum.name=Electrum Ingot
+item.ingotBronze.name=Bronze Ingot
+item.nuggetCopper.name=Copper Nugget
+item.nuggetTin.name=Tin Nugget
+item.nuggetAluminum.name=Aluminum Nugget
+item.nuggetSilver.name=Silver Nugget
+item.nuggetLead.name=Lead Nugget
+item.nuggetSteel.name=Steel Nugget
+item.nuggetAluBrass.name=Aluminum Brass Nugget
+item.nuggetElectrum.name=Electrum Nugget
+item.nuggetBronze.name=Bronze Nugget
 
 # Blocks
-tile.storageMetal.name=Block of Copper
+tile.storageCopper.name=Block of Copper
+tile.storageTin.name=Block of Tin
+tile.storageAluminum.name=Block of Aluminum
+tile.storageSilver.name=Block of Silver
+tile.storageLead.name=Block of Lead
+tile.storageSteel.name=Block of Steel
+tile.storageAluBrass.name=Block of Aluminum Brass
+tile.storageElectrum.name=Block of Electrum
+tile.storageBronze.name=Block of Bronze

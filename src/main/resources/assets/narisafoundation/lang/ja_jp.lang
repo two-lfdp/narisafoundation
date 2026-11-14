@@ -2,8 +2,32 @@
 itemGroup.narisaFoundation=NarisaFoundation
 
 # Items
-item.ingot.name=銅インゴット
-item.nugget.name=銅塊
+item.ingotCopper.name=銅インゴット
+item.ingotTin.name=錫インゴット
+item.ingotAluminum.name=アルミニウムインゴット
+item.ingotSilver.name=銀インゴット
+item.ingotLead.name=鉛インゴット
+item.ingotSteel.name=鋼インゴット
+item.ingotAluBrass.name=アルミ真鍮インゴット
+item.ingotElectrum.name=エレクトラムインゴット
+item.ingotBronze.name=青銅インゴット
+item.nuggetCopper.name=銅塊
+item.nuggetTin.name=錫塊
+item.nuggetAluminum.name=アルミニウム塊
+item.nuggetSilver.name=銀塊
+item.nuggetLead.name=鉛塊
+item.nuggetSteel.name=鋼塊
+item.nuggetAluBrass.name=アルミ真鍮塊
+item.nuggetElectrum.name=エレクトラム塊
+item.nuggetBronze.name=青銅塊
 
 # Blocks
-tile.storageMetal.name=銅ブロック
+tile.storageMetalCopper.name=銅ブロック
+tile.storageMetalTin.name=錫ブロック
+tile.storageMetalAluminum.name=アルミニウムブロック
+tile.storageMetalSilver.name=銀ブロック
+tile.storageMetalLead.name=鉛ブロック
+tile.storageMetalSteel.name=鋼ブロック
+tile.storageMetalAluBrass.name=アルミ真鍮ブロック
+tile.storageMetalElectrum.name=エレクトラムブロック
+tile.storageMetalBronze.name=青銅ブロック

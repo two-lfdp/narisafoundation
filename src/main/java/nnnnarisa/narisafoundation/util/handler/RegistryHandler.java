@@ -29,7 +29,6 @@ public class RegistryHandler {
         // Items
         ItemInit.INGOT.registerItemModel();
         ItemInit.NUGGET.registerItemModel();
-
         // Blocks
         BlockInit.STORAGE_METAL.registerItemModel();
     }
