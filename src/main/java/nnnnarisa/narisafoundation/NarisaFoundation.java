@@ -1,9 +1,11 @@
 package nnnnarisa.narisafoundation;
 
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import nnnnarisa.narisafoundation.proxy.CommonProxy;
+import nnnnarisa.narisafoundation.util.NFCreativeTab;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -12,6 +14,8 @@ public class NarisaFoundation {
 
     private static final String CLIENT_PROXY_CLASS = "nnnnarisa.narisafoundation.proxy.ClientProxy";
     private static final String SERVER_PROXY_CLASS = "nnnnarisa.narisafoundation.proxy.CommonProxy";
+
+    public static final CreativeTabs CREATIVE_TABS = new NFCreativeTab();
 
     @Mod.Instance
     public static NarisaFoundation instance;

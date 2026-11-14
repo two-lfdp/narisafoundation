@@ -1,2 +1,9 @@
+# Creative Tab
+itemGroup.narisaFoundation=NarisaFoundation
+
 # Items
 item.ingot.name=銅インゴット
+item.nugget.name=銅塊
+
+# Blocks
+tile.storageMetal.name=銅ブロック

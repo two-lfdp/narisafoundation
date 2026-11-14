@@ -1,2 +1,9 @@
+# Creative Tab
+itemGroup.narisaFoundation=NarisaFoundation
+
 # Items
 item.ingot.name=Copper Ingot
+item.nugget.name=Copper Nugget
+
+# Blocks
+tile.storageMetal.name=Block of Copper

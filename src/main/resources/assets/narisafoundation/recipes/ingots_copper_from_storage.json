@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "narisafoundation:ingot_copper",
+    "pattern": [
+        "B"
+    ],
+    "key": {
+        "B": {
+            "item": "narisafoundation:storage_metal"
+        }
+    },
+    "result": {
+        "item": "narisafoundation:ingot",
+        "count": 9
+    }
+}

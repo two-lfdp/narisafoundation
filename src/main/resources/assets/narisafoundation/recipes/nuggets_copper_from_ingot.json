@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "narisafoundation:nugget_copper",
+    "pattern": [
+        "I"
+    ],
+    "key": {
+        "I": {
+            "item": "narisafoundation:ingot"
+        }
+    },
+    "result": {
+        "item": "narisafoundation:nugget",
+        "count": 9
+    }
+}

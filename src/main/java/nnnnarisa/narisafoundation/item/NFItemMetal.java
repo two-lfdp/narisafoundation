@@ -6,12 +6,12 @@ import nnnnarisa.narisafoundation.NarisaFoundation;
 import nnnnarisa.narisafoundation.Tags;
 import nnnnarisa.narisafoundation.util.IHasModel;
 
-public class NFItemIngot extends Item implements IHasModel {
+public class NFItemMetal extends Item implements IHasModel {
 
-    public NFItemIngot(){
-        setRegistryName(Tags.MOD_ID, "ingot");
-        setTranslationKey("ingot");
-        setCreativeTab(CreativeTabs.MATERIALS);
+    public NFItemMetal(String typeName){
+        setRegistryName(Tags.MOD_ID, typeName);
+        setTranslationKey(typeName);
+        setCreativeTab(NarisaFoundation.CREATIVE_TABS);
     }
 
     public void registerItemModel(){
